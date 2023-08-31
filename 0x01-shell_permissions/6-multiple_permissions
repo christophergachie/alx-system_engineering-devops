@@ -1,2 +1,2 @@
 #!/bin/bash
-hello --x --x r--
+hello --x--xr--
